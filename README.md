@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ajay
 - 👀 I’m interested in working with some interesting open source project related to green technology.
 - 🌱 I’m currently learning Cyber Security.
-- 💞️ I’m looking to collaborate on microsoft azure topics.
+- 💞️ I’m looking to collaborate on cloud and AI topics.
 - 📫 Reach me at ajay.20093@gmail.com
 
 <!---
